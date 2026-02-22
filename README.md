@@ -1,6 +1,6 @@
 # Project Concept
 
-This project provides a comprehensive analytical view of the Saudi labor market for the second quarter of 2025. It transitions from traditional descriptive reporting to Prescriptive Analytics by allowing decision-makers to simulate future growth scenarios and nationalization (Saudization) targets.
+This project provides a comprehensive analytical view of the Saudi labor market for the second quarter of 2025. It transitions from traditional descriptive reporting to Prescriptive Analytics by allowing decision-makers to simulate future growth scenarios and nationalization.Saudization targets.
 
 
 ##  The Problem & Purpose
@@ -45,9 +45,4 @@ The "Predicted Saudis" card updates instantly to show the target number of emplo
 1. Download the `.pbix` file from this repository.
 2. Ensure you have Power BI Desktop installed.
 3. Open the file to interact with the dashboard and simulation sliders.
-- How to Run the Project
-Download the .pbix file from this repository.
 
-Ensure you have Power BI Desktop installed.
-
-Open the file to interact with the dashboard and simulation sliders.
