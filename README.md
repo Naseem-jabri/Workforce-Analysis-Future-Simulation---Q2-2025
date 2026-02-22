@@ -20,12 +20,12 @@ To bridge the gap between historical data and future planning, providing a tool 
 - **Excel:** The primary source for the Q2-2025 raw dataset.
 
 
-##  Applied Learning Paths (Skills)
+##  Applied Learning Paths -Skills
 
 - **ETL & Data Cleaning:** Handling missing values and filtering out administrative totals (Grand Totals) to ensure data integrity.
 - **DAX Modeling:** Creating dynamic measures for Total Workforce, Expat Percentages, and Predicted Growth.
 - **What-if Analysis (ML Simulation):** Implementing Numeric Range Parameters to simulate future Saudi workforce increases.
-- **UI/UX Design:** Applying the F-Pattern layout, custom color palettes (#63458A), and rounded-border visuals for a modern executive look.
+- **UI/UX Design:** Applying the F-Pattern layout, and rounded-border visuals for a modern executive look.
 
 
 ##  How it Works
