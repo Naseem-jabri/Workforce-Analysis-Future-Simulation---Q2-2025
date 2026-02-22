@@ -1,0 +1,1 @@
+SELECT * INTO Fact_Workers_Stats FROM [dbo].[Workers by agegroup nationality and genderQ2 2025];
